@@ -7,7 +7,7 @@
 - 📫 How to reach me:
   - Telegram: [@mb0629](https://t.me/mb0629)
   - LinkedIn: [Mohammed Bourass](https://www.linkedin.com/in/mohammed-bourass-39538a293/)
-  - Email : srx.mbrs204@gmail.com
+  - Email : srx.mbrs2004@gmail.com
 - 💬 Pronouns: he/him (but feel free to call me "Captain" 😉).
 - ⚡ Fun fact: I dream of creating a company that will build an operating system better than macOS and Windows—but not Linux; Linux is unreachable!
 
