@@ -1,7 +1,7 @@
 # Hi, I’m MOHAMMED BOURASS
 
 - 👨‍💻 I’m interested in programming, SQL development, and the .NET framework. 
-- 🌱 I’m currently learning Flutter and backend development using C#.
+- 🌱 I’m currently learning Flutter.
 - I'm a BackEnd devlopper ASP.NET C# 
 - 🤝 I’m looking to collaborate on team projects.
 - 📫 How to reach me:
