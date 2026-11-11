@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohammed%20Bourass&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Database%20Engineer%20%E2%80%A2%20ASP.NET%20Core%20%E2%80%A2%20Morocco&descSize=18&descAlignY=60" alt="header" width="100%"/>
+# Mohammed Bourass
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2C9CDB&center=true&vCenter=true&width=700&lines=Final-year+CS+student+at+ENSAF;Backend+developer+with+ASP.NET+Core+%26+C%23;I+design+databases+that+scale+%F0%9F%97%84%EF%B8%8F;SQL+Server+%7C+PostgreSQL+%7C+MySQL+%7C+MongoDB;Looking+for+a+PFE+internship+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### Backend & Database Engineer · Final-year CS student at ENSAF, Morocco
 
-<br/>
+**ASP.NET Core · C# · SQL · Laravel · React**
 
-<a href="https://www.linkedin.com/in/mohammed-bourass-39538a293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:srx.mbrs2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://t.me/mb0629"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<img src="https://img.shields.io/badge/Open%20to-PFE%20Internship-brightgreen?style=for-the-badge" alt="Open to PFE"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-bourass-39538a293/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srx.mbrs2004@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mb0629)
+![Open to PFE](https://img.shields.io/badge/Open%20to-PFE%20Internship-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -21,7 +19,7 @@
 
 I'm a software engineer and final-year Computer Science student at **ENSAF** (Morocco). I build backend systems and the data layer behind them: clean APIs, solid schemas, and queries that stay fast as data grows.
 
-I've shipped software for real clients across **healthcare, retail/POS, marketplaces and restaurants**, and I'm now looking for a **final-year internship (PFE)** and for **team and open-source projects**.
+I've shipped software for real clients across **healthcare, retail/POS, marketplaces and restaurants**, and I'm now looking for a **final-year internship (PFE)** and opportunities for **team and open-source projects**.
 
 ```csharp
 public class Mohammed : Developer
@@ -113,16 +111,16 @@ public class Mohammed : Developer
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammedbourass-youssef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedbourass-youssef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<a href="https://github.com/mohammedbourass-youssef">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammedbourass-youssef&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for Mohammed Bourass" />
+</a>
+<a href="https://github.com/mohammedbourass-youssef?tab=repositories">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedbourass-youssef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages used in public repositories" />
+</a>
 
-<br/>
+<br />
 
-<img src="https://streak-stats.demolab.com?user=mohammedbourass-youssef&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedbourass-youssef&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedbourass-youssef&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution graph" width="100%" />
 
 </div>
 
@@ -131,7 +129,7 @@ public class Mohammed : Developer
 ## 🐍 Contributions snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohammedbourass-youssef/mohammedbourass-youssef/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+  <img src="https://raw.githubusercontent.com/mohammedbourass-youssef/mohammedbourass-youssef/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 ---
@@ -140,6 +138,4 @@ public class Mohammed : Developer
 
 I'm open to a **PFE internship**, **team projects** and **open-source collaboration**. If you work on backend, data or full-stack products, I'd love to hear from you.
 
-📧 **srx.mbrs2004@gmail.com**  ·  💼 [LinkedIn](https://www.linkedin.com/in/mohammed-bourass-39538a293/)  ·  💬 [@mb0629](https://t.me/mb0629)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="footer" width="100%"/>
+📧 **srx.mbrs2004@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-bourass-39538a293/) · 💬 [@mb0629](https://t.me/mb0629)
