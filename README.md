@@ -109,19 +109,11 @@ public class Mohammed : Developer
 
 ## 📊 GitHub stats
 
+## 📊 GitHub stats
+
 <div align="center">
-
-<a href="https://github.com/mohammedbourass-youssef">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammedbourass-youssef&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for Mohammed Bourass" />
-</a>
-<a href="https://github.com/mohammedbourass-youssef?tab=repositories">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedbourass-youssef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages used in public repositories" />
-</a>
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedbourass-youssef&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution graph" width="100%" />
-
+  <img height="180" src="https://raw.githubusercontent.com/mohammedbourass-youssef/mohammedbourass-youssef/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats for Mohammed Bourass" />
+  <img height="180" src="https://raw.githubusercontent.com/mohammedbourass-youssef/mohammedbourass-youssef/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
 </div>
 
 ---
