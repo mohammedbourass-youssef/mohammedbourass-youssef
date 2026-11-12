@@ -10,6 +10,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srx.mbrs2004@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mb0629)
 ![Open to PFE](https://img.shields.io/badge/Open%20to-PFE%20Internship-brightgreen?style=for-the-badge)
+[![Download CV](https://img.shields.io/badge/Download-CV-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/mohammedbourass-youssef/mohammedbourass-youssef/raw/main/CV_Mohammed_Bourass.pdf)
+
+<br />
+
+<img src="https://img.shields.io/badge/Based%20in-Morocco-C1272D?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Morocco" />
+<img src="https://img.shields.io/badge/Languages-Arabic%20%7C%20French%20%7C%20English-1a1b27?style=flat-square" alt="Languages" />
+<img src="https://komarev.com/ghpvc/?username=mohammedbourass-youssef&style=flat-square&color=70a5fd" alt="Profile views" />
 
 </div>
 
@@ -30,6 +37,14 @@ public class Mohammed : Developer
     public bool OpenToWork => true; // PFE internship, collaborations
 }
 ```
+
+---
+
+## 🌱 Currently
+
+- 🎓 Final year at ENSAF, looking for a PFE internship
+- 🗄️ Going deeper into SQL performance tuning and PostgreSQL
+- ⚙️ Improving my backend architecture and Docker/observability skills
 
 ---
 
@@ -103,6 +118,17 @@ public class Mohammed : Developer
 | 🧾 **Desktop POS** | Bilingual FR/AR point of sale for Moroccan retail | WPF, C#, SQL |
 | 🏨 **Restaurant & hotel management** | Management systems and e-commerce backends | .NET, SQL Server |
 
+<!--
+LIVE REPO BADGES (optional): replace REPO_NAME with a PUBLIC repo name,
+copy one block per repo, then delete the comment markers around it.
+
+<a href="https://github.com/mohammedbourass-youssef/REPO_NAME">
+  <img src="https://img.shields.io/github/last-commit/mohammedbourass-youssef/REPO_NAME?style=flat-square&label=Last%20commit" alt="Last commit" />
+  <img src="https://img.shields.io/github/languages/top/mohammedbourass-youssef/REPO_NAME?style=flat-square" alt="Top language" />
+  <img src="https://img.shields.io/github/stars/mohammedbourass-youssef/REPO_NAME?style=flat-square" alt="Stars" />
+</a>
+-->
+
 > 📌 Check my pinned repositories for code and details.
 
 ---
@@ -131,6 +157,7 @@ public class Mohammed : Developer
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 
 </div>
+
 ---
 
 ## 🐍 Contributions snake
