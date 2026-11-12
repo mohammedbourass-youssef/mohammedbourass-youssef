@@ -109,13 +109,28 @@ public class Mohammed : Developer
 
 ## 📊 GitHub stats
 
-## 📊 GitHub stats
-
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/mohammedbourass-youssef/mohammedbourass-youssef/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats for Mohammed Bourass" />
-  <img height="180" src="https://raw.githubusercontent.com/mohammedbourass-youssef/mohammedbourass-youssef/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
-</div>
 
+<a href="https://github.com/mohammedbourass-youssef?tab=followers">
+  <img src="https://img.shields.io/github/followers/mohammedbourass-youssef?style=for-the-badge&logo=github&label=Followers&color=1a1b27&labelColor=70a5fd" alt="GitHub followers" />
+</a>
+<a href="https://github.com/mohammedbourass-youssef?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Pinned%20projects-1a1b27?style=for-the-badge&logo=github&labelColor=38bdae" alt="Repositories" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20Databases-1a1b27?style=for-the-badge&logo=databricks&labelColor=bf91f3" alt="Focus" />
+
+<br />
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+
+</div>
 ---
 
 ## 🐍 Contributions snake
